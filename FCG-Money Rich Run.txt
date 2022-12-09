@@ -2,7 +2,7 @@
   "ReportAdEvents": true,
   "ReportRevenueEvents": true,
   "ReportPlacementEvents": true,
-  "ShowInternetPopup": false,
+  "ShowInternetPopup": true,
   "ShowApplovinOnLowDevices": true,
   "AppLovinPings": 120,
   "MaxPingsThreshold": 500,
