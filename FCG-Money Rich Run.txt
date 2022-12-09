@@ -6,5 +6,5 @@
   "ShowApplovinOnLowDevices": true,
   "AppLovinPings": 120,
   "MaxPingsThreshold": 500,
-  "RamForLowQualityAds": 2048
+  "RamForLowQualityAds": 2987
 }
