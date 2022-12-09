@@ -2,8 +2,9 @@
   "ReportAdEvents": true,
   "ReportRevenueEvents": true,
   "ReportPlacementEvents": true,
-  "ShowAppLovinAds": true,
-  "RamForLowQualityAds": 2048,
+  "ShowInternetPopup": true,
+  "ShowApplovinOnLowDevices": true,
   "AppLovinPings": 120,
-  "MaxPingsThreshold": 500
+  "MaxPingsThreshold": 500,
+  "RamForLowQualityAds": 2048
 }
