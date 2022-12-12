@@ -1,0 +1,6 @@
+{
+  "ShowInternetPopup": true,
+  "ShowApplovinOnLowDevices": true,
+  "AppLovinPings": 120,
+  "MaxPingsThreshold": 500
+}
